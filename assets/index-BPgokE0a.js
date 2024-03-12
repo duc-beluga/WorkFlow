@@ -8995,8 +8995,8 @@ nc(), (bi.exports = ge);
 var Td = bi.exports,
   Bi = Td;
 (Ql.createRoot = Bi.createRoot), (Ql.hydrateRoot = Bi.hydrateRoot);
-const Rd = "assets/react-CHdo91hT.svg",
-  Od = "vite.svg";
+const Rd = "/assets/react-CHdo91hT.svg",
+  Od = "/vite.svg";
 function Md() {
   const [e, n] = el.useState(0);
   return le.jsxs(le.Fragment, {
@@ -9042,7 +9042,7 @@ function Md() {
       }),
       le.jsx("p", {
         className: "read-the-docs",
-        children: "Click on the Vite and React logos to learn morea",
+        children: "Click on the Vite and React logos to learn more",
       }),
     ],
   });
